@@ -1,2 +1,3 @@
-# Food-Mania
-Presenting Food Mania App: A React Native App. Discover, Choose, and Order your preferred Food
+# Food_Mania
+
+Mobile Application that updates you with the latest Deal on Food
